@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Mauricio. I'm a full stack developer living in Stockholm, Sweden.
+
 <!--
 **MauricioLudwig/mauricioludwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
