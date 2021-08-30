@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mauricio. I'm a full stack developer living in Stockholm, Sweden.
+I'm Mauricio. I'm a full stack developer living in Stockholm, Sweden. I'm fond of anything JavaScript & Mathematics and occasionally write.
 
 <!--
 **MauricioLudwig/mauricioludwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
